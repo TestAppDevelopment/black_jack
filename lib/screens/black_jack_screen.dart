@@ -84,9 +84,12 @@ class _BlackJackScreenState extends State<BlackJackScreen> {
     "cards/A3.png": 11,
     "cards/A4.png": 11,
   };
-
-  // Playing cards in this game.
+// Playing cards in this games.
+  // Playing cards in this games.
   Map<String, int> playingCards = {};
+
+
+
 
   @override
   void initState() {
